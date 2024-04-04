@@ -1,3 +1,7 @@
 Backend/node_modules
+<<<<<<< Updated upstream
 frontend/node_modules/
 frontend/src/bootstrap/
+=======
+Frontend/node_modules
+>>>>>>> Stashed changes
