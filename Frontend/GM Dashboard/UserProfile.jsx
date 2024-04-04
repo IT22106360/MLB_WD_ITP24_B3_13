@@ -7,7 +7,7 @@ const ClientProfile = () => {
         <body>
         <section>
             <Container>
-            <div className="leftImage">
+            <div className="leftIma">
                     <img/>{/*Logo Img - add this*/}
                 </div>
                 <div className="title">Edit Profile</div>
